@@ -1,0 +1,41 @@
+
+.textcolor{
+    color: white;
+    border: solid 1px;
+    background-color: rgb(27, 8, 49);
+    width: 400px;;
+    margin: 0px 370px;
+    padding: 10px;
+    }
+    input{
+    background-color:transparent;
+    padding:10px;
+    }
+    
+    ::placeholder {
+    color: white;
+    
+    }
+    .input{
+    width: 300px;
+    } 
+    .checkbox{
+    margin-left:7px;
+    }
+    img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    }
+    .signin{
+    background-color: rgb(209, 19, 82);
+    width: 300px;
+    padding: 5px;
+    }
+    a{
+    text-decoration: none;
+    color:rgb(255, 255, 255);
+    }
+    span{
+    margin-right:62px;
+    }
