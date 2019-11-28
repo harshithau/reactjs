@@ -3,11 +3,16 @@ import React, { Component } from 'react';
 import './Signinpage.css';
 import img from '../teddy.jpg';
 import { SocialIcon } from 'react-social-icons';
+import Navbar from '../../Navbar/Navbar/Navbar';
 
 class Signin extends Component {
 render() {
 return (
+    <div>
+    <div>
+        <Navbar/></div>
     <div className="textcolor">
+       
         <h1>Signin form</h1>
         <img src={img} /><br /><br />
         <form>
@@ -27,6 +32,7 @@ or
 <SocialIcon url="http://whatsapp.com/jaketrent" />
 </div>
 
+</div>
 </div>
 );
 }

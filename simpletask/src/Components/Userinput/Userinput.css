@@ -1,0 +1,8 @@
+
+.div{
+    display: grid;
+    grid-template-columns: 500px;
+   grid-gap:40px;
+   margin: 50px;;
+
+}

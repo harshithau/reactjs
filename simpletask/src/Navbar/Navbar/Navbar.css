@@ -1,0 +1,5 @@
+.div{
+    background-color:blueviolet;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
